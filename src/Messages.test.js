@@ -3,6 +3,7 @@ import ReactDOM from 'react-dom';
 import Messages from './Messages';
 import renderer from 'react-test-renderer';
 
+
 describe('Messages component', () => {
 it('render without crashing', () => {
     const div = document.createElement('div');
@@ -24,3 +25,4 @@ it('renders the UI as expected with no unreads', () => {
     expect(tree).toMatchSnapshot();
     });
 });
+*/
