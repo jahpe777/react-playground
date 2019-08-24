@@ -25,4 +25,4 @@ it('renders the UI as expected with no unreads', () => {
     expect(tree).toMatchSnapshot();
     });
 });
-*/
+
