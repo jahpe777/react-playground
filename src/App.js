@@ -7,7 +7,8 @@ import TheDate from './state/TheDate.js';
 import Counter from './state/Counter.js';
 import HelloWorld from './state-drills/HelloWorld.js';
 import Bomb from './state-drills/Bomb.js';
-import RouletteGun from './state-drills/RouletteGun';*/
+import RouletteGun from './state-drills/RouletteGun';
+*/
 
 
 const tabsProp = [
